@@ -1,4 +1,4 @@
-public class Mahasiswa {
+class Mahasiswa {
     String nama, jurusan, jurusanStudi;
     int umur;
 

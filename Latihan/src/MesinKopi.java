@@ -1,4 +1,4 @@
-public class MesinKopi {
+class MesinKopi {
     int bijiKopi, air, susu; // Soal 1
 
     public void isiUlangBahan(int bijiKopiBaru, int airBaru, int susuBaru){
